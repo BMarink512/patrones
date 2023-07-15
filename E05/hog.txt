@@ -1,0 +1,1 @@
+hog(img, orientations=9, pixels_per_cell=(64,64),cells_per_block=(1,1),norm=False)
